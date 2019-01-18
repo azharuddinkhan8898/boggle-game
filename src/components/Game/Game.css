@@ -1,0 +1,16 @@
+/* Game Area */
+
+.game-area {
+    padding: 20px;
+    margin: 0;
+    float: left;
+    width: 270px;
+}
+
+.clear {
+    clear: both;
+}
+
+.checking{
+    text-align: center;
+}
